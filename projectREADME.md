@@ -8,7 +8,9 @@ This project is to update the code for Horiseon. The code consisted of <div> ele
 ## Installation
 
 Go to website URL ().
-
+<!-- TO DO create screen shot -->
+<!-- TO DO copy url and put in readme -->
+<!-- Create heading called live url and screen shot-->
 ## Usage
 
 This website is used for customers for the Horiseon company. You can click one of the three options in the header to go to the part of the page that you want to.
