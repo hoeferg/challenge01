@@ -1,5 +1,6 @@
 # Horizen
 
+<img src="Horiseon.png" />
 
 ## Table of Contents  
 * [Description](##Description)  
